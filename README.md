@@ -1,5 +1,5 @@
 # mayaTornado
-Python script to generate a particle systems vortex and assigns an Arnold volume shader for rendering
+Python script to generate a particle systems vortex and assigns an Arnold volume shader for rendering.  You may also use mayaSimpleTornado to generate the particle system without the Arnold shader.
 
 This script creates a sphere and a particle emitter attached to the sphere. It also adds a turbulence field and a vortex field to create a swirling motion, simulating a tornado effect. You can adjust the parameters (like rate in the emitter, magnitude in the vortex, etc.) to fine-tune the appearance of the tornado.
 
